@@ -11,10 +11,6 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "php": "^7.1",
-        "illuminate/support": "^5.4|^6.0|^7.0|^8.0"
-    },
     "require-dev": {
         "orchestra/testbench": "^4.6"
     },
